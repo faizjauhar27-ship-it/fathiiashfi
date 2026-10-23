@@ -1,8 +1,0 @@
-[build]
-  publish = "."
-
-[[headers]]
-  for = "/assets/*.xlsx"
-  [headers.values]
-    X-Robots-Tag = "noindex, nofollow"
-    Content-Disposition = "attachment; filename=daftar-link-undangan-fathi-ashfi.xlsx"
