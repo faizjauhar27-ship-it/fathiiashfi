@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fathi Ashfi//Wedding Invitation//ID
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:resepsi-20261114@fathiashfi.netlify.app
+DTSTAMP:20261021T000000Z
+DTSTART:20261114T030000Z
+SUMMARY:Resepsi Pernikahan Fathi dan Ashfi
+LOCATION:Islamic Center IMMIM (Gedung 2)\, Jl. Jend. Sudirman No. 33\,
+  Makassar
+DESCRIPTION:Resepsi Fathi dan Ashfi. Pukul 11.00 WITA sampai selesai.
+END:VEVENT
+END:VCALENDAR
